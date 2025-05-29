@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on frontend projects<br>🌱 I’m currently learning frontend
-
+🔭 I’m currently working on frontend, AI related projects<br> 🤖 Exploring LLMs, Google’s A2A protocol, and AI agent frameworks<br> 🚀 Passionate about building smart, automated solutions with AI.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kohantika-nath-25b023283) 
